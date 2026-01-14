@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name="Eurosport 1 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP"  group-title="DAZN MAX",Eurosport 1 Max
+#EXTINF:-1  tvg-name="Eurosport 1 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP"  group-title="Dazn MAX",Eurosport 1 Max
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0102690ec4dee31e67929c6a98c9a265":"2e81a3963c7d08400159d87d42aaa44f","0100f408bba5ab0148c5e0e210ae9d76":"ef5ea88db6feac5524dd290c5493c414","0101c11c66f3957949550453de42660d":"31a0a7c621c9501f832176b1c99a9232","0105c3270fff38fed0d7028c92e4de5a":"b4887c7cd1d4cd8dd817df9fe554b4fc"}
 https://akm.live.dazn.prd.media.max.com/live/use1/c49_Ciw3NGIyNGU2YS02ZDNiLTU5MWEtOWFjMC1mYjFkYTFjZTA2ZTItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
 
-#EXTINF:-1  tvg-name="Eurosport 1 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP"  group-title="DAZN MAX" group-logo="https://tse1.mm.bing.net/th?id=OIP.IcGprQIpnUdSrhgnQnFSXQHaEK&pid=Api&P=0&h=180",Eurosport 1
+#EXTINF:-1  tvg-name="Eurosport 1 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP"  group-title="Dazn MAX" group-logo="https://tse1.mm.bing.net/th?id=OIP.IcGprQIpnUdSrhgnQnFSXQHaEK&pid=Api&P=0&h=180",Eurosport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"01000819feee1c80a1f64fc08376c252":"5bf902171486524df9b21808edef860d", "010127c6fa68eee97ef7c82752f22e11":"0fa5b3c105aaaf63b9b93be2cddbb31e", "01023ffe0333b85328bc5b0766789e7d":"13a4e1e7a7ca9adee16426c9624bd144", "0105921c1170652f2cd7135f0336cd8a":"6f3ffb47c25eae4b47354b4a91b717a3"}
 https://cf.live.eu.prd.media.max.com/live/use1/c49_Ciw3NGIyNGU2YS02ZDNiLTU5MWEtOWFjMC1mYjFkYTFjZTA2ZTItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
 
-#EXTINF:-1  tvg-name="Eurosport 2 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP2" group-title="DAZN MAX",Eurosport 2 Max
+#EXTINF:-1  tvg-name="Eurosport 2 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP2" group-title="Dazn MAX",Eurosport 2 Max
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0101527715a66c6c62ed0e8e6eb799f9":"c0d796e9c1d48c5977c74238d53588dd","0100044be671d1262e02b690bfcf6385":"1e3325224e61056a2b1d66bfc7e47c3b","0102e01cea59779f12c9320c00415f06":"0358d6fb1bdc54d250ed1ee2cb8fc68d","01059201a748de1c780ca3ba1f615de6":"657a6bee88d8fc756ed681d0a49f6c34"}
 https://akm.live.dazn.prd.media.max.com/live/use1/ffe_CixiMDU1MjYzZi1jOWU0LTVjMjEtOTA2My0xMTY1NDMwNGE5ZjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
 
-#EXTINF:-1  tvg-name="Eurosport 2 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP2" group-title="DAZN MAX",Eurosport 2
+#EXTINF:-1  tvg-name="Eurosport 2 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP2" group-title="Dazn MAX",Eurosport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"010033fc3588d73cbf9b75137b7800f6":"caa160ca9b29180aa9c74670de02c8b0", "0101c760977a0fe119ac9d644f31baa9":"d51ab56bd16947e6a8de3e682592ea6f", "010210a351a418297a267029f83ebd9a":"38c556c20615a4eca80426e161e21f1f", "0105fb0015b249b35faac7337d3e4112":"01462e63a040559504de6786affa4479"}

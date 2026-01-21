@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://tv.zapping.life:8080/xmltv.php?username=tjsr12021&password=HKC1uFeg2C&type=xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/peru2.xml, https://www.open-epg.com/files/uruguay2.xml, https://www.open-epg.com/files/argentina3.xml, https://www.open-epg.com/files/argentina4.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://iptv-epg.org/files/epg-us.xml, https://epg.pw/api/epg.xml?channel_id=464949, https://epg.pw/api/epg.xml?channel_id=465174, https://epg.pw/api/epg.xml?channel_id=465312, https://epg.pw/api/epg.xml?channel_id=465329"
+
 
 #EXTINF:-1  tvg-name="Eurosport 1 (MAX)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP"  group-title="Dazn MAX",Eurosport 1 Max
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -92,3 +93,115 @@ https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/mast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
 https://lb2-e2-31.pluscdn.pl/ch/1455824/109/dash/8792e496/live.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="I289.110964.schedulesdirect.org" tvg-name="ESPN" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png", ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0ee/index.m3u8
+
+#EXTINF:-1 tvg-id="I292.37747.schedulesdirect.org" tvg-name="ESPN 2" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png", ESPN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0kp/index.m3u8
+
+#EXTINF:-1 tvg-id="I295.79042.schedulesdirect.org" tvg-name="ESPN 3" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png", ESPN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0k0/index.m3u8
+
+#EXTINF:-1 tvg-id="I296.121144.schedulesdirect.org" tvg-name="ESPN 4 México" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png", ESPN 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0jy/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/y6DPVT4b/ESPN-5.png", ESPN 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0kh/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/VN7qwJ7f/ESPN-6.png", ESPN 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0fa/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/6qC48qh2/ESPN-7.png", ESPN 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0g2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-name="" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/qvNryHfD/1280px-ESPN-Premium-logo-svg.png", ESPN PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0es/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS.ar" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/15jNWQjC/foxsport-AR.png" , FOX Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://200.80.230.123:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS.ar" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/15jNWQjC/foxsport-AR.png" , FOX Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://190.104.67.90:234/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD.ar" tvg-name="FOX SPORTS 2 HD.ar" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png", FOX Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca032/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD.ar" tvg-name="FOX SPORTS 2 HD.ar" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png", FOX Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://200.80.230.123:8000/play/a0aa/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-name="FOX SPORTS 3.ar" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png", FOX Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://200.80.230.123:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSports (IPTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/rySrYd0R/DSports.webp", DSports +
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/rySrYd0R/DSports.webp", DSports + (IPTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS HD.ar" tvg-name="TNT SPORTS HD.ar" group-logo="https://i.postimg.cc/kXMZHhpt/Deportes.png" group-title="Deporte ⚽" tvg-logo="https://i.postimg.cc/05Hc9VKy/TNTSP.png", TNT Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://38.199.6.1:17001/play/a036/index.m3u8
+
